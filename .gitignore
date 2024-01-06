@@ -1,0 +1,6 @@
+/production/*
+/jlcpcb/*
+fp-*
+*.lck
+/*-backups
+.DS_Store
