@@ -14,9 +14,11 @@ I really like this small PCB testboard for prototyping and experimenting with my
 
 The PCB was designed in KiCad 7. You will most likely have to **change / adopt the SMA connectors** since I used a couple of non-standard ones which, I just had in stock.
 
-I designed the traces as microstrip lines, matching 50 Ohm. This resulting trace width is 1.85mm using *1,0mm PCB thickness* and an Epsilon r = 4.5 of the FR4 material.
+I designed the traces as microstrip lines, matching 50 Ohm. This resulting trace width is 1.85mm using __1,0mm PCB thickness__ and an Epsilon r = 4.5 of the FR4 material. I get accurate results up to a few hundred Megahertz.
 
 The pin sockets have a 2.54mm spacing.
+
+I use Nylon M3 screws & nuts as feet.
 
 ## License
 
